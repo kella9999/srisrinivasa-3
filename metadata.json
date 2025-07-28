@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Price Predictor AI",
+  "description": "An advanced cryptocurrency prediction dashboard that visualizes model performance and provides AI-powered suggestions for model improvement using the Gemini API.",
+  "requestFramePermissions": []
+}
